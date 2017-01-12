@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		881425E149E7E51B596D6183 /* libPods-LifeShare.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 511334FF95D33C799AE80151 /* libPods-LifeShare.a */; };
+		BED34CC31BF300B2000FE162 /* MapListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED34CC21BF300B2000FE162 /* MapListViewController.swift */; };
+		BED5EDD31C0457DE0009B12D /* buckshot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BED5EDD21C0457DE0009B12D /* buckshot.jpg */; };
+		BED5EDD51C045A640009B12D /* aquarium.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BED5EDD41C045A640009B12D /* aquarium.jpg */; };
+		BED5EDD71C046B1F0009B12D /* abels.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BED5EDD61C046B1F0009B12D /* abels.jpg */; };
+		BED5EDD91C0527170009B12D /* caution.png in Resources */ = {isa = PBXBuildFile; fileRef = BED5EDD81C0527170009B12D /* caution.png */; };
+		F4592A981BFBF0A000E9D408 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = F4592A941BFBF09F00E9D408 /* README.txt */; };
+		F4592A991BFBF0A000E9D408 /* blindpig.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4592A951BFBF0A000E9D408 /* blindpig.jpg */; };
+		F4592A9A1BFBF0A000E9D408 /* barbarella.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4592A961BFBF0A000E9D408 /* barbarella.jpg */; };
+		F4592A9B1BFBF0A000E9D408 /* shakespear.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4592A971BFBF0A000E9D408 /* shakespear.jpg */; };
 		F4CB2D071BE02F2C0081EE79 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB2D061BE02F2C0081EE79 /* AppDelegate.swift */; };
 		F4CB2D091BE02F320081EE79 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB2D081BE02F310081EE79 /* ViewController.swift */; };
 		F4CB2D0C1BE02F360081EE79 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4CB2D0A1BE02F360081EE79 /* Main.storyboard */; };
@@ -15,6 +25,18 @@
 		F4CB2D141BE02F3B0081EE79 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4CB2D121BE02F3B0081EE79 /* LaunchScreen.storyboard */; };
 		F4CB2D1F1BE02F410081EE79 /* LifeShareTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB2D1E1BE02F410081EE79 /* LifeShareTests.swift */; };
 		F4CB2D2A1BE02F440081EE79 /* LifeShareUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CB2D291BE02F440081EE79 /* LifeShareUITests.swift */; };
+		F4CB2D381BE033F00081EE79 /* PodFile in Resources */ = {isa = PBXBuildFile; fileRef = F4CB2D371BE033F00081EE79 /* PodFile */; };
+		F4CFDA241BF268740062C2CB /* picjumbo.com_IMG_7811.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4CFDA231BF268730062C2CB /* picjumbo.com_IMG_7811.jpg */; };
+		F4CFDA261BF277C10062C2CB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFDA251BF277C10062C2CB /* LoginViewController.swift */; };
+		F4CFDA281BF27EC50062C2CB /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFDA271BF27EC50062C2CB /* SignupViewController.swift */; };
+		F4CFDA2A1BF291C00062C2CB /* ShowBarsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFDA291BF291C00062C2CB /* ShowBarsTableViewController.swift */; };
+		F4CFDA2C1BF293790062C2CB /* DescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFDA2B1BF293790062C2CB /* DescriptionViewController.swift */; };
+		F4CFDA2E1BF293AD0062C2CB /* Deals.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFDA2D1BF293AD0062C2CB /* Deals.swift */; };
+		F4CFDA301BF293D70062C2CB /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFDA2F1BF293D70062C2CB /* DataModel.swift */; };
+		F4CFDA321BF2940D0062C2CB /* Bars.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFDA311BF2940D0062C2CB /* Bars.swift */; };
+		F4CFDA341BF294420062C2CB /* BarTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFDA331BF294420062C2CB /* BarTableViewCell.swift */; };
+		F4CFDA361BF294760062C2CB /* DealsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CFDA351BF294760062C2CB /* DealsTableViewCell.swift */; };
+		F4CFDA381BF29CC70062C2CB /* Mojito.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4CFDA371BF29CC70062C2CB /* Mojito.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +57,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		46E32E2B0A9DAA47E8577432 /* Pods-LifeShare.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LifeShare.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LifeShare/Pods-LifeShare.debug.xcconfig"; sourceTree = "<group>"; };
+		511334FF95D33C799AE80151 /* libPods-LifeShare.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LifeShare.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BED34CC21BF300B2000FE162 /* MapListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapListViewController.swift; sourceTree = "<group>"; };
+		BED5EDD21C0457DE0009B12D /* buckshot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = buckshot.jpg; sourceTree = "<group>"; };
+		BED5EDD41C045A640009B12D /* aquarium.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aquarium.jpg; sourceTree = "<group>"; };
+		BED5EDD61C046B1F0009B12D /* abels.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = abels.jpg; sourceTree = "<group>"; };
+		BED5EDD81C0527170009B12D /* caution.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = caution.png; sourceTree = "<group>"; };
+		E29E3BA0E0A163371272B240 /* Pods-LifeShare.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LifeShare.release.xcconfig"; path = "Pods/Target Support Files/Pods-LifeShare/Pods-LifeShare.release.xcconfig"; sourceTree = "<group>"; };
+		F4592A941BFBF09F00E9D408 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		F4592A951BFBF0A000E9D408 /* blindpig.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blindpig.jpg; sourceTree = "<group>"; };
+		F4592A961BFBF0A000E9D408 /* barbarella.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = barbarella.jpg; sourceTree = "<group>"; };
+		F4592A971BFBF0A000E9D408 /* shakespear.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shakespear.jpg; sourceTree = "<group>"; };
 		F4CB2D031BE02F290081EE79 /* LifeShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LifeShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4CB2D061BE02F2C0081EE79 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4CB2D081BE02F310081EE79 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +83,20 @@
 		F4CB2D251BE02F410081EE79 /* LifeShareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LifeShareUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4CB2D291BE02F440081EE79 /* LifeShareUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LifeShareUITests.swift; sourceTree = "<group>"; };
 		F4CB2D2B1BE02F450081EE79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4CB2D371BE033F00081EE79 /* PodFile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PodFile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F4CB2D391BE15E2A0081EE79 /* LifeShare-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LifeShare-Bridging-Header.h"; sourceTree = "<group>"; };
+		F4CB2D3A1BE15E2B0081EE79 /* LifeShare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeShare.h; sourceTree = "<group>"; };
+		F4CFDA231BF268730062C2CB /* picjumbo.com_IMG_7811.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = picjumbo.com_IMG_7811.jpg; sourceTree = "<group>"; };
+		F4CFDA251BF277C10062C2CB /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		F4CFDA271BF27EC50062C2CB /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		F4CFDA291BF291C00062C2CB /* ShowBarsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowBarsTableViewController.swift; sourceTree = "<group>"; };
+		F4CFDA2B1BF293790062C2CB /* DescriptionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DescriptionViewController.swift; sourceTree = "<group>"; };
+		F4CFDA2D1BF293AD0062C2CB /* Deals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Deals.swift; sourceTree = "<group>"; };
+		F4CFDA2F1BF293D70062C2CB /* DataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		F4CFDA311BF2940D0062C2CB /* Bars.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bars.swift; sourceTree = "<group>"; };
+		F4CFDA331BF294420062C2CB /* BarTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BarTableViewCell.swift; sourceTree = "<group>"; };
+		F4CFDA351BF294760062C2CB /* DealsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DealsTableViewCell.swift; sourceTree = "<group>"; };
+		F4CFDA371BF29CC70062C2CB /* Mojito.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mojito.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +104,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				881425E149E7E51B596D6183 /* libPods-LifeShare.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,13 +125,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E36A760E190A4C312E497A5D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				511334FF95D33C799AE80151 /* libPods-LifeShare.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F0837863079D47C991DEACC3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				46E32E2B0A9DAA47E8577432 /* Pods-LifeShare.debug.xcconfig */,
+				E29E3BA0E0A163371272B240 /* Pods-LifeShare.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		F4CB2CFA1BE02F0D0081EE79 = {
 			isa = PBXGroup;
 			children = (
+				F4CB2D3A1BE15E2B0081EE79 /* LifeShare.h */,
+				F4CFDA591BF2ABE50062C2CB /* Images */,
+				F4CB2D371BE033F00081EE79 /* PodFile */,
 				F4CB2D051BE02F290081EE79 /* LifeShare */,
 				F4CB2D1D1BE02F400081EE79 /* LifeShareTests */,
 				F4CB2D281BE02F440081EE79 /* LifeShareUITests */,
 				F4CB2D041BE02F290081EE79 /* Products */,
+				F0837863079D47C991DEACC3 /* Pods */,
+				E36A760E190A4C312E497A5D /* Frameworks */,
+				F4CB2D391BE15E2A0081EE79 /* LifeShare-Bridging-Header.h */,
 			);
 			sourceTree = "<group>";
 		};
@@ -102,7 +174,19 @@
 				F4CB2D061BE02F2C0081EE79 /* AppDelegate.swift */,
 				F4CB2D081BE02F310081EE79 /* ViewController.swift */,
 				F4CB2D0A1BE02F360081EE79 /* Main.storyboard */,
+				BED34CC21BF300B2000FE162 /* MapListViewController.swift */,
+				F4CFDA291BF291C00062C2CB /* ShowBarsTableViewController.swift */,
+				F4CFDA2B1BF293790062C2CB /* DescriptionViewController.swift */,
+				F4CFDA2D1BF293AD0062C2CB /* Deals.swift */,
+				F4CFDA2F1BF293D70062C2CB /* DataModel.swift */,
+				F4CFDA311BF2940D0062C2CB /* Bars.swift */,
+				F4CFDA331BF294420062C2CB /* BarTableViewCell.swift */,
+				F4CFDA351BF294760062C2CB /* DealsTableViewCell.swift */,
+				F4CFDA251BF277C10062C2CB /* LoginViewController.swift */,
+				F4CFDA271BF27EC50062C2CB /* SignupViewController.swift */,
 				F4CB2D101BE02F3A0081EE79 /* Assets.xcassets */,
+				F4CFDA371BF29CC70062C2CB /* Mojito.jpg */,
+				F4CFDA231BF268730062C2CB /* picjumbo.com_IMG_7811.jpg */,
 				F4CB2D121BE02F3B0081EE79 /* LaunchScreen.storyboard */,
 				F4CB2D151BE02F3B0081EE79 /* Info.plist */,
 				F4CB2D0D1BE02F390081EE79 /* LifeShare.xcdatamodeld */,
@@ -128,6 +212,21 @@
 			path = LifeShareUITests;
 			sourceTree = "<group>";
 		};
+		F4CFDA591BF2ABE50062C2CB /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				BED5EDD81C0527170009B12D /* caution.png */,
+				F4592A941BFBF09F00E9D408 /* README.txt */,
+				BED5EDD61C046B1F0009B12D /* abels.jpg */,
+				BED5EDD41C045A640009B12D /* aquarium.jpg */,
+				BED5EDD21C0457DE0009B12D /* buckshot.jpg */,
+				F4592A951BFBF0A000E9D408 /* blindpig.jpg */,
+				F4592A961BFBF0A000E9D408 /* barbarella.jpg */,
+				F4592A971BFBF0A000E9D408 /* shakespear.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +234,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F4CB2D2E1BE02F460081EE79 /* Build configuration list for PBXNativeTarget "LifeShare" */;
 			buildPhases = (
+				0AE850E9588F2D98A7BCF0FC /* Check Pods Manifest.lock */,
 				F4CB2CFF1BE02F250081EE79 /* Sources */,
 				F4CB2D001BE02F250081EE79 /* Frameworks */,
 				F4CB2D011BE02F250081EE79 /* Resources */,
+				B38B5F01A0CA1B0036CB20C5 /* Embed Pods Frameworks */,
+				D750B4344EB405F29C7E9208 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -190,18 +292,23 @@
 		F4CB2CFB1BE02F100081EE79 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0700;
+				LastSwiftUpdateCheck = 0700;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = CS378;
 				TargetAttributes = {
 					F4CB2D021BE02F250081EE79 = {
 						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = AB64U5E3WL;
+						LastSwiftMigration = 0820;
 					};
 					F4CB2D191BE02F400081EE79 = {
 						CreatedOnToolsVersion = 7.0.1;
+						LastSwiftMigration = 0820;
 						TestTargetID = F4CB2D021BE02F250081EE79;
 					};
 					F4CB2D241BE02F410081EE79 = {
 						CreatedOnToolsVersion = 7.0.1;
+						LastSwiftMigration = 0820;
 						TestTargetID = F4CB2D021BE02F250081EE79;
 					};
 				};
@@ -231,8 +338,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BED5EDD31C0457DE0009B12D /* buckshot.jpg in Resources */,
+				F4592A9B1BFBF0A000E9D408 /* shakespear.jpg in Resources */,
+				F4592A991BFBF0A000E9D408 /* blindpig.jpg in Resources */,
 				F4CB2D141BE02F3B0081EE79 /* LaunchScreen.storyboard in Resources */,
+				F4592A981BFBF0A000E9D408 /* README.txt in Resources */,
+				F4CFDA381BF29CC70062C2CB /* Mojito.jpg in Resources */,
+				BED5EDD71C046B1F0009B12D /* abels.jpg in Resources */,
+				BED5EDD91C0527170009B12D /* caution.png in Resources */,
+				BED5EDD51C045A640009B12D /* aquarium.jpg in Resources */,
 				F4CB2D111BE02F3A0081EE79 /* Assets.xcassets in Resources */,
+				F4CFDA241BF268740062C2CB /* picjumbo.com_IMG_7811.jpg in Resources */,
+				F4CB2D381BE033F00081EE79 /* PodFile in Resources */,
+				F4592A9A1BFBF0A000E9D408 /* barbarella.jpg in Resources */,
 				F4CB2D0C1BE02F360081EE79 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -253,14 +371,72 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0AE850E9588F2D98A7BCF0FC /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B38B5F01A0CA1B0036CB20C5 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LifeShare/Pods-LifeShare-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D750B4344EB405F29C7E9208 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LifeShare/Pods-LifeShare-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		F4CB2CFF1BE02F250081EE79 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4CFDA2A1BF291C00062C2CB /* ShowBarsTableViewController.swift in Sources */,
+				F4CFDA2C1BF293790062C2CB /* DescriptionViewController.swift in Sources */,
+				F4CFDA261BF277C10062C2CB /* LoginViewController.swift in Sources */,
+				F4CFDA361BF294760062C2CB /* DealsTableViewCell.swift in Sources */,
 				F4CB2D0F1BE02F390081EE79 /* LifeShare.xcdatamodeld in Sources */,
+				BED34CC31BF300B2000FE162 /* MapListViewController.swift in Sources */,
+				F4CFDA281BF27EC50062C2CB /* SignupViewController.swift in Sources */,
 				F4CB2D091BE02F320081EE79 /* ViewController.swift in Sources */,
 				F4CB2D071BE02F2C0081EE79 /* AppDelegate.swift in Sources */,
+				F4CFDA341BF294420062C2CB /* BarTableViewCell.swift in Sources */,
+				F4CFDA321BF2940D0062C2CB /* Bars.swift in Sources */,
+				F4CFDA2E1BF293AD0062C2CB /* Deals.swift in Sources */,
+				F4CFDA301BF293D70062C2CB /* DataModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -328,13 +504,16 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -372,13 +551,16 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -392,29 +574,43 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
 		F4CB2D2F1BE02F460081EE79 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46E32E2B0A9DAA47E8577432 /* Pods-LifeShare.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = AB64U5E3WL;
 				INFOPLIST_FILE = LifeShare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cs378.LifeShare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "LifeShare-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
 		F4CB2D301BE02F460081EE79 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E29E3BA0E0A163371272B240 /* Pods-LifeShare.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = AB64U5E3WL;
 				INFOPLIST_FILE = LifeShare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cs378.LifeShare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "LifeShare-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -426,6 +622,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cs378.LifeShareTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LifeShare.app/LifeShare";
 			};
 			name = Debug;
@@ -438,6 +635,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cs378.LifeShareTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LifeShare.app/LifeShare";
 			};
 			name = Release;
@@ -449,6 +647,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cs378.LifeShareUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = LifeShare;
 				USES_XCTRUNNER = YES;
 			};
@@ -461,6 +660,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cs378.LifeShareUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = LifeShare;
 				USES_XCTRUNNER = YES;
 			};
@@ -485,6 +685,7 @@
 				F4CB2D301BE02F460081EE79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4CB2D311BE02F460081EE79 /* Build configuration list for PBXNativeTarget "LifeShareTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +694,7 @@
 				F4CB2D331BE02F460081EE79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4CB2D341BE02F460081EE79 /* Build configuration list for PBXNativeTarget "LifeShareUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +703,7 @@
 				F4CB2D361BE02F460081EE79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
