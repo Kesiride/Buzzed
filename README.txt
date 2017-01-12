@@ -9,12 +9,12 @@ Initial detail screen
 Overall UI quality
 
 Jack: 30%
-Added the Map View
 Cleaned Detail screen
 Fixed bugs with add deal feature
 Overall UI quality
 
 Michael: 25%
+Added the Map View
 Fixed misc formatting issues from Alpha
 Cleaned Table View screen
 Overall UI quality
